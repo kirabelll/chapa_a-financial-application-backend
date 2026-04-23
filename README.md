@@ -1,6 +1,7 @@
 # chapa_a
 
-This project was created with [Better Fullstack](https://github.com/Marve10s/Better-Fullstack), a high-performance Go stack.
+Chapa Core Banking Core is a high-performance, modular core banking engine built with Go. It provides foundational banking primitives including account management, transaction processing, and ledger operations — designed for reliability, auditability, and extensibility.
+
 
 ## Features
 
